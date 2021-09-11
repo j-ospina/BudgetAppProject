@@ -1,0 +1,1 @@
+This Project is intended for me to develop an application that will facilitate entering budget information.
